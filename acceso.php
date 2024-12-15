@@ -10,9 +10,6 @@
   <!-- Enlace al archivo CSS para dar estilo a la página. -->
 </head>
 <body>
-  <!-- Mensaje de ayuda para el usuario -->
-  Al momento de probar el proyecto, ejecute y abra el webview en la opción New tab, luego borre este mensaje. 
-  <!--Para validar su revisión debe crear al menos 3 usuarios distintos con claves simples, también debe probar los usuarios creados usando el login (acceso.php). -->
 
   <div class="header">
     <h2>Ingreso</h2>
